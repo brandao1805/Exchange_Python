@@ -3,11 +3,17 @@
 Este projeto envolve a criação de uma Exchange de Criptomoedas própria na linguagem em Python. Exchanges de Criptomoedas são plataformas que permitem a compra e venda de criptomoedas. As criptomoedas são um tipo de moeda, semelhante às que usamos diariamente, com a diferença de serem totalmente digitais. Além disso, diferentemente das moedas tradicionais como o real ou o dólar, as criptomoedas não são emitidas por nenhum governo. Nesse documento, estarei apresentando a FEI Crypto Exchange que possui as seguintes funções dentro dela:
 
 ● Cadastro e login do usuário
+
 ● Menu principal com as opções do programa
+
 ● Consultar saldo da conta
+
 ● Consultar extratos existentes
+
 ● Depositar e sacar reais de sua conta
+
 ● Comprar e vender as três criptomoedas existentes no catálogo da Exchange (Bitcoin, Ethereum e Ripple)
+
 ● Atualizar as cotações das criptomoedas do catálogo
 
 ## 1 – Apresentação da Plataforma
